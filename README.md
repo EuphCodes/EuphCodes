@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EuphCodes
-- 👀 I’m interested in becoming a fullstack web developer
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in becoming a software developer.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on anything at my current skill level
 - 📫 You can reach me Discord @ Euphemia#6264
 
